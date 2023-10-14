@@ -1,6 +1,6 @@
 # ML-Prediction-For-Rates
-The dataset without datadivsion are saved in FNN_dataset.csv and SVR+GPR_dataset.csv
-The entire dataset division result for LOGO and Kfold method are listed as FNN_loo file and SVR+GPR_loo file.
+## The dataset without datadivsion are saved in FNN_dataset.csv and SVR+GPR_dataset.csv.
+## The entire dataset division result for LOGO and Kfold method are listed as FNN_loo file and SVR+GPR_loo file.
 Noting that the three structure for these two file is same
  - DGLOO-test1  the single reaction data for testing model
  - DGLOO-train1 the training dataset
