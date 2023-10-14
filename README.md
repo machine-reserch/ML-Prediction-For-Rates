@@ -20,7 +20,6 @@ The current repository provides a comprehensive framework for predicting reactio
    - These datasets are found in the **FNN_cross** and **SVR+GPR_cross** directories. Notably, these datasets are dynamically generated during the model evaluation process.
 
 ## Pre-Trained Models:
-
 Our framework has undergone rigorous training, and the top 50 models (based on performance metrics) are stored in the **Selecting_model_weight** directory for immediate use.
 
 ## Implementation:
