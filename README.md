@@ -4,6 +4,9 @@
 
 The current repository provides a comprehensive framework for predicting reaction rates using machine learning (ML) techniques. It comprises datasets, pre-trained models, and an easy-to-use prediction script for practical applications.
 
+## Molecular Structures
+All molecular structures are presented as Smiles format saved in Reaction_list.xlsx
+
 ## Datasets:
 
 1. **Complete Datasets**: 
